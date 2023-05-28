@@ -3,7 +3,7 @@
 ## Datasets
 FEMA National Risk Index Dataset:
 * provides county level statistics and scores on social vulnerability, hurricane records, hurricane exposure, and hurricane risk
-* publically available at https://arcg.is/0KD9Tq
+* publically available at [https://arcg.is/0KD9Tq](https://hazards.fema.gov/nri/data-resources)
 
 Nielsen Scanner Consumption Dataset:
 * provides weekly product sales by county across all states
